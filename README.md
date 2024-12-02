@@ -59,4 +59,4 @@ Modern tools for memory-keeping are fragmented, static, and lack intelligent ins
 - Expand AI to suggest future goals based on past patterns.
 
 ## Conclusion
-**Starlouge** redefines memory-keeping with dynamic, interactive, and AI-powered features, offering a unique way to document, reflect, and share life's journey.
+**Starlogue** redefines memory-keeping with dynamic, interactive, and AI-powered features, offering a unique way to document, reflect, and share life's journey.
