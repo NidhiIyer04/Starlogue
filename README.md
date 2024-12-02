@@ -3,6 +3,13 @@
 ## Project Overview
 **Objective:** Develop an interactive 3D web application to visualize life moments, habits, and emotions as constellations in a personal galaxy, complemented by an AI-powered digital scrapbook for capturing and sharing memories.
 
+## Steps to run PoC
+```
+    npm install http-server
+    cd PoC
+    http-server .
+```
+
 **Problem Statement:** 
 Modern tools for memory-keeping are fragmented, static, and lack intelligent insights, making it difficult for users to explore their life journey dynamically. 
 
